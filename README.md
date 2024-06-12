@@ -19,5 +19,5 @@ The Spam SMS Detection project is designed to classify SMS messages as either sp
 - **Grid Search with Cross-Validation**: This technique is employed to find the optimal hyperparameters for the Random Forest classifier, ensuring the best model performance.
 
 ## Results
-- The model achieves high accuracy and reliability in classifying SMS messages as spam or ham. Detailed results and model evaluation metrics can be found in the `model_training.ipynb` notebook.
+- The model achieves high accuracy and reliability in classifying SMS messages as spam or ham. Detailed results and model evaluation metrics can be found in the `spam_classification.ipynb` notebook.
 
